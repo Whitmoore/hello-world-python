@@ -1,5 +1,4 @@
-#!/usr/bin/python
-
+#ViktoriaNadeykina
 import time
 from flask import Flask
 app = Flask(__name__)
